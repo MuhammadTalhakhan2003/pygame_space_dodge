@@ -109,4 +109,4 @@ git commit -m "Add README.md"
 git push
 ````
 
-Let me know if you'd like to upload the thumbnail image and link it properly in the README too.
+Author (HumSabKaCoddingChannel(MuhammadTalhaKhan))
