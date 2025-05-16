@@ -1,8 +1,6 @@
-Great! Here's a **professional and beginner-friendly `README.md`** for your [Space Dodge game](https://github.com/MuhammadTalhakhan2003/pygame_space_dodge):
-
 ---
 
-### 📄 `README.md`
+### 📄 `Space Dodge game`
 
 ````markdown
 # 🚀 Space Dodge
